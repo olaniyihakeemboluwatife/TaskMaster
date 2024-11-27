@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "start": "node app.js",
     "postinstall": "npm rebuild bcrypt --build-from-source"
   },
   "keywords": [],
