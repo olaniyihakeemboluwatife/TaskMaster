@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api"; // API base URL
+const API_URL = "https://taskmaster-lb6d.onrender.com"; // API base URL
 
 // Register new user
 // Get the registration form
